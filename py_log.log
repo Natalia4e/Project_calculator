@@ -1,0 +1,14 @@
+INFO:root:Calculated 2 * 2 = 4
+INFO:root:Calculated (1+2j) * (5+2j) = (1+12j)
+INFO:root:2023-01-27 21:06:34.779866 Calculated 645 - 8436836 = -8436191
+ERROR:root:ERROR
+INFO:root:2023-01-27 21:08:03.567190 Calculated (2+4j) - (3+2j) = (-1+2j)
+INFO:root:2023-01-27 21:08:27.149909 Calculated (2+2j) * (2+2j) = 8j
+INFO:root:2023-01-27 21:09:37.123155 Calculated 5 * 5 = 25
+INFO:root:2023-01-27 21:11:00.876470 Calculated (2+2j) * (2+5j) = (-6+14j)
+INFO:root:2023-01-27 21:13:53.644465 Calculated (2+2j) / 2j = (1-1j)
+INFO:root:2023-01-27 21:14:06.200991 Calculated (2+2j) / (2+0j) = (1+1j)
+INFO:root:2023-01-27 21:16:04.910978 Calculated (2+2j) / 2j = (1-1j)
+INFO:root:2023-01-27 21:16:20.899330 Calculated (2+2j) / (2+0j) = (1+1j)
+INFO:root:2023-01-27 21:21:38.952224 user tried to divide by zero
+WARNING:root:2023-01-27 21:22:21.643556 user tried to divide by zero
